@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelmoughit Moubarik</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **moughitmoubarik08@gmail.com**
 
