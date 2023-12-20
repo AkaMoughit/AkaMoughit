@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdelmoughit Moubarik</h1>
-<h3 align="center">A passionate developer from Morocco</h3>
 
 
 - 📫 How to reach me **moughitmoubarik08@gmail.com**
